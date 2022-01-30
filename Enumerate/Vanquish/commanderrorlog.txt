@@ -1,0 +1,14 @@
+rm: cannot remove '/usr/local/bin/vanquish': No such file or directory
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+E: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+E: Unable to lock directory /var/lib/apt/lists/
+W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoveCaches (13: Permission denied)
+W: Problem unlinking the file /var/cache/apt/srcpkgcache.bin - RemoveCaches (13: Permission denied)
+fatal: could not create work tree dir '/opt/vanquish': Permission denied
+python: can't open file '/opt/vanquish/setup.py': [Errno 2] No such file or directory
+/bin/sh: 1: cannot create /usr/local/bin/vanquish: Permission denied
+fatal: could not create work tree dir '/usr/share/nmap/scripts/vulscan': Permission denied
+/bin/sh: 1: /usr/share/nmap/scripts/vulscan/updateFiles.sh: not found
+chmod: cannot access '/usr/local/bin/vanquish': No such file or directory
