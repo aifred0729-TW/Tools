@@ -1,0 +1,41 @@
+Host Name:                 CEVAPI
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.15063 N/A Build 15063
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:   
+Product ID:                00331-10000-00001-AA648
+Original Install Date:     1/9/2020, 5:27:16 PM
+System Boot Time:          9/15/2021, 2:21:44 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 1 Stepping 2 AuthenticAMD ~3094 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.17369862.B64.2012240522, 12/24/2020
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,095 MB
+Available Physical Memory: 1,935 MB
+Virtual Memory: Max Size:  4,799 MB
+Virtual Memory: Available: 2,751 MB
+Virtual Memory: In Use:    2,048 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    sandbox.local
+Logon Server:              N/A
+Hotfix(s):                 N/A
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: vmxnet3 Ethernet Adapter
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.5.5.25
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+
